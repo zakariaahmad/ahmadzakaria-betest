@@ -1,2 +1,10 @@
 # ahmadzakaria-betest
 CRUD Test
+
+PORT=3000
+MONGO_URI=mongodb+srv://admin:admin123@cluster0.3skjs.mongodb.net/db_ahmadzakaria_betest?retryWrites=true&w=majority
+ACCESS_TOKEN_SECRET=81af1358eb4fe1c63505ddfa10597a039d39e19a1081f9ab7e2f331bedf482720f8bbec23161634653ad8c63e6158e21e253abecfca3a257f8bf0564cab4b844
+REDIS_HOST=
+REDIS_PORT=6379
+DB_CONN_STRING=
+ACCESS_TOKEN_TIME=15s
